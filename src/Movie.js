@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import "./Movie.css";
 
 Movie.propTypes = {
   id: PropTypes.number.isRequired,
